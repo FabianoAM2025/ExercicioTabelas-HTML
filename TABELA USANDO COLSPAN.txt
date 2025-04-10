@@ -1,0 +1,78 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA USANDO COLSPAN </b></title>
+    	<h2><i>TABELA USANDO COLSPAN </i></h2>
+    
+    <body>
+    <h2>TABELA DIAS DE ATENDIMENTO:</h2>
+	<table>
+     <tr>
+          <td colspan="3">_Segunda-Feira </td>
+     </tr>
+     <tr>
+          <td>MANHÃ</td>
+          <td>TARDE </td>
+          <td>NOITE </td>
+     </tr>
+
+      
+     <tr>
+          <td colspan="3">_Terça-Feira</td>
+     </tr>
+     <tr>
+          <td>MANHÃ</td>
+          <td>TARDE </td>
+          <td>NOITE </td>
+     </tr>
+
+      
+     <tr>
+          <td colspan="3">_Quarta-Feira</td>
+     </tr>
+     <tr>
+          <td>MANHÃ</td>
+          <td>TARDE </td>
+          <td>NOITE </td>
+     </tr>
+
+      
+     <tr>
+          <td colspan="3">_Quinta-Feira</td>
+     </tr>
+     <tr>
+          <td>MANHÃ</td>
+          <td>TARDE </td>
+          <td>NOITE </td>
+     </tr>
+
+
+     <tr>
+          <td colspan="3">_Sexta-Feira</td>
+     </tr>
+     <tr>
+          <td>MANHÃ</td>
+          <td>TARDE </td>
+          <td>NOITE </td>
+     </tr>
+
+
+     <tr>
+          <td colspan="3">_Sábado</td>
+     </tr>
+     <tr>
+<td colspan="3">_FECHADO</td>
+     </tr>
+
+       
+     <tr>
+          <td colspan="3">_Domingo</td>
+     </tr>
+     <tr>
+
+          <td colspan="3">_FECHADO</td>
+     </tr>
+</table>	
+     
+  <p>Para saber mais: <a href="fabianomoreira7500@gmail.com">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>

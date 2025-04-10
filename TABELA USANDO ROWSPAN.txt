@@ -1,0 +1,62 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA COM FRUTAS E VERDURAS </b></title>
+    	<h2><i>TABELA COM FRUTAS E VERDURAS </i></h2>
+    	
+    <body>
+    <h2>TABELA DE PREÇOS:</h2>
+	<table>
+	    <tr>
+      <th>-PRODUTOS- </th>
+		  <th>- PREÇO -</th>
+      <th>- UN/Kg -</th>
+	    </tr>
+      
+	    <tr>
+      <th>TOMATE: </th>
+		  <td rowspan="2">__3,00__</td>
+      <td rowspan="7">__kg__</td>
+	    </tr>
+      
+	    <tr>
+      <th>BANANA: </th>
+	    </tr>
+      
+	    <tr>
+      <th>MAÇÃ: </th><td rowspan="2">__3,50__</td>
+	    </tr>
+
+	    <tr>
+      <th>LARANJA: </th>
+	    </tr>
+      
+      <tr>
+      <th>CENOURA: </th>
+		  <th>3,45 -</th>
+	    </tr>
+
+	    <tr>
+      <th>BATATINHA: </th>
+		  <th>1,95 -</th>
+	    </tr>
+
+	    <tr>
+      <th>UVA: </th>
+		  <th>9,50 -</th>
+	    </tr>      
+
+	    <tr>
+      <th>REPOLHO: </th>
+		  <td rowspan="2">__5,50__</td>
+      <td rowspan="2">__un__</td>      
+	    </tr>
+      
+      <tr>
+      <th>MAMÃO: </th> 
+      </tr>
+      
+	
+      </table>
+  <p>Para saber mais: <a href="46 999114954">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>

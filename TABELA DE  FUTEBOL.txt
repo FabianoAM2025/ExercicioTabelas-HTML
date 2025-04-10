@@ -1,0 +1,61 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA DE CAMPEONATO DE FUTEBOL </b></title>
+    	<h2><i>TABELA FUTEBOL BRASILEIRO</i></h2>
+    	
+    <body>
+    <h2>TABELA ATUALIZADA:</h2>
+	<table>
+	    <tr>
+      <th>TIMES: </th>
+		  <th>PLACAR: </th>	
+		  <th>TIME </th>
+
+	    </tr>
+      
+	    <tr>
+		  <td> PALMEIRAS: </td>	
+		  <td>_ 1 X 0 </td>
+      <td>_ GRÊMIO: </td>
+	    </tr>
+      
+	    <tr>
+		  <td> FLAMENGO: </td>	
+		  <td>_ 5 X 0 </td>
+      <td>_ INTERNACIONAL: </td>
+	    </tr>
+      
+	    <tr>
+		  <td> CRUZEIRO: </td>	
+		  <td>_ 2 X 1 </td>
+      <td>- FLUMINENSE: </td>
+	    </tr>
+
+	    <tr>
+		  <td> SANTOS: </td>	
+		  <td>_ 0 X 0 </td>
+      <td>- CORINTHIANS: </td>
+	    </tr>
+
+	    <tr>
+		  <td> CORITIBA: </td>	
+		  <td>_ 1 X 0 </td>
+      <td>- VASCO: </td>
+	    </tr>
+
+	    <tr>
+		  <td> BOTAFOGO: </td>	
+		  <td>_ 3 X 3 </td>
+      <td>- GRÊMIO: </td>
+	    </tr>
+        
+	    <tr>
+		  <td> Atlético-MG: </td>	
+		  <td>_ 5 X 5 </td>
+      <td>- Athletico-PR: </td>
+	    </tr>
+   	
+      </table>
+  <p>Para saber mais: <a href="46 999114954">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>

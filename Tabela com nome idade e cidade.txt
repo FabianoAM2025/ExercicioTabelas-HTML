@@ -1,0 +1,48 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA COM NOME IDADE E CIDADE</b></title>
+    	<h2><i>TABELA COM NOME IDADE E CIDADE </i></h2>
+    	
+    <body>
+    <h2>TABELA:</h2>
+	<table>
+	      <tr>
+		  <th> NOME </th>	
+		  <th> IDADE </th>
+		  <th> CIDADE </th>
+	     </tr>
+		
+
+	      <tr>
+		  <td> Fabiano </td>	
+		  <td> 46 anos </td>
+		  <td> Cruzeiro do Iguaçu </td>
+	     </tr>
+
+	      <tr>
+		  <td> Lindamir </td>	
+		  <td> 42 anos </td>
+		  <td> Cruzeiro do Iguaçu </td>
+	     </tr>
+
+	      <tr>
+		  <td> Fernando </td>	
+		  <td> 12 anos </td>
+		  <td> Cruzeiro do Iguaçu </td>
+	     </tr>
+	      <tr>
+		  <td> Sara </td>	
+		  <td> 19 anos </td>
+		  <td> Dois Vizinhos </td>
+	     </tr>
+	      <tr>
+		  <td> Victor </td>	
+		  <td> 17 anos </td>
+		  <td> Dois Vizinhos </td>
+	     </tr>
+
+	
+      </table>
+  <p>Para saber mais: <a href="46 999114954">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>

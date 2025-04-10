@@ -1,0 +1,61 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA COM DISCIPLINAS E NOTAS</b></title>
+    	<h2><i>TABELA COM AS NOTAS ATUALIZADAS</i></h2>
+    	
+    <body>
+    <h2>TABELA:</h2>
+	<table>
+	    <tr>
+      <th>ALUNOS: </th>
+		  <th>_MATEMÁTICA </th>	
+		  <th>_HISTÓRIA </th>
+		  <th>_ARTES  </th>
+
+	    </tr>
+      
+      <tr>
+		  <td> Fernado: </td>	
+		  <td> 10 </td>
+		  <td> 10 </td>
+      <td> 10 </td>
+      
+ 	    </tr>
+      
+      <tr>
+		  <td> Sara: </td>	
+		  <td> 10 </td>
+		  <td> 10 </td>
+      <td> 10 </td>
+      
+ 	    </tr>
+      
+      <tr>
+		  <td> Lorenzo: </td>	
+		  <td> 10 </td>
+		  <td> 10 </td>
+      <td> 10 </td>
+      
+ 	    </tr>
+
+      <tr>
+		  <td> Lucas: </td>	
+		  <td> 10 </td>
+		  <td> 10 </td>
+      <td> 10 </td>
+      
+ 	    </tr>
+
+      
+      <tr>
+		  <td> Ana: </td>	
+		  <td> 10 </td>
+		  <td> 10 </td>
+      <td> 10 </td>
+      
+ 	    </tr>
+	
+      </table>
+  <p>Para saber mais: <a href="46 999114954">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>

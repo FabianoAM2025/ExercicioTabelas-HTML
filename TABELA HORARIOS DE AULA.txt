@@ -1,0 +1,103 @@
+<IDOCTYPE html> <html lang="br"><html lang="es">
+    <title><b> TABELA COM HORÀRIOS DAS MATÈRIAS </b></title>
+    	<h2><i>TABELA COM HORÀRIOS DAS MATÈRIAS </i></h2>
+    	
+    <body>
+    <h2>TABELA:</h2>
+	<table>
+	    <tr>
+      <th>MATÈRIAS: </th>
+		  <th>Segunda-Feira -</th>	
+		  <th>Terça-Feira -</th>
+		  <th>Quarta-Feira - </th>
+      <th>Quinta-Feira - </th>
+      <th>Sexta-Feira -</th>
+	    </tr>
+      
+	    <tr>
+		  <td> MATEMÂTICA: </td>	
+		  <td> 7:30 / 8:05</td>
+		  <td> 7:30 / 8:05</td>
+      <td> 7:30 / 8:05 </td>
+      <td> 7:30 / 8:05 </td>
+      <td> 7:30 / 8:05 </td>  
+	    </tr>
+      
+	    <tr>
+		  <td> HISTÒRIA: </td>	
+		  <td> 8:05 / 8:40 </td>
+		  <td> 8:05 / 8:40 </td>
+      <td> 8:05 / 8:40 </td>
+      <td> 8:05 / 8:40 </td>
+      <td> 8:05 / 8:40 </td>
+	    </tr>
+      
+	    <tr>
+		  <td>PORTUGUÊSA: </td>	
+		  <td> 8:40 / 9:15 </td>
+		  <td> 8:40 / 9:15 </td>
+      <td> 8:40 / 9:15 </td>
+      <td> 8:40 / 9:15 </td>
+      <td> 8:40 / 9:15 </td>  
+	    </tr>
+
+	    <tr>
+		  <td>EDUCAÇÂO-FÌSICA: </td>	
+		  <td> 9:15 /9:50 </td>
+		  <td> 9:15 /9:50 </td>
+      <td> 9:15 /9:50 </td>
+      <td> 9:15 /9:50 </td>
+      <td> 9:15 /9:50 </td>  
+	    </tr>
+
+	    <tr>
+		  <td> RECREIO: </td>	
+		  <td> 9:50 / 10:10 </td>
+		  <td> 9:50 / 10:10 </td>
+      <td> 9:50 / 10:10</td>
+      <td> 9:50 / 10:10</td>
+      <td> 9:50 / 10:10 </td>  
+	    </tr>
+
+	    <tr>
+		  <td>ED-FINANCEIRA: </td>	
+		  <td> 10:10 / 10:45 </td>
+		  <td> 10:10 / 10:45 </td>
+      <td> 10:10 / 10:45 </td>
+      <td> 10:10 / 10:45 </td>
+      <td> 10:10 / 10:45 </td>  
+	    </tr>
+      
+	    <tr>
+		  <td>QUÌMICA:</td>	
+		  <td> 10:45 / 11:20 </td>
+		  <td> 10:45 / 11:20 </td>
+      <td> 10:45 / 11:20 </td>
+      <td> 10:45 / 11:20 </td>
+      <td> 10:45 / 11:20 </td>  
+	    </tr>
+       
+	    <tr>
+		  <td> ROBÒTICA: </td>	
+		  <td> 11:20 / 11:55 </td>
+		  <td> 11:20 / 11:55 </td>
+      <td> 11:20 / 11:55 </td>
+      <td> 11:20 / 11:55 </td>
+      <td> 11:20 / 11:55 </td>  
+	    </tr>
+      
+      <tr>
+		  <td> FÌSICA: </td>	
+		  <td> 11:55 / 12:30 </td>
+		  <td> 11:55 / 12:30 </td>
+      <td> 11:55 / 12:30 </td>
+      <td> 11:55 / 12:30 </td>
+      <td> 11:55 / 12:30 </td>  
+	    </tr>
+
+	
+      </table>
+  <p>Para saber mais: <a href="46 999114954">clique aqui</a>.</p>  
+    </body>
+  </html>
+</IDOCTYPE>
